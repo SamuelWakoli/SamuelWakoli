@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there! 👋 I'm Samuel Wakoli.
 
-<!--
-**SamuelWakoli/SamuelWakoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate Android and Flutter app developer with experience in building mobile apps using Kotlin and Dart. I enjoy learning new technologies and contributing to open-source projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- Diploma in Information Technology, KCA University, 2021
+
+
+## Skills
+
+- Kotlin
+- Java
+- Dart
+- Android
+- Flutter
+- Git
+
+
+## GitHub Stats
+
+[![Samuel Wakoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelWakoli&show_icons=true&theme=radical)](https://github.com/SamuelWakoli/github-readme-stats)
+
+## Contact
+
+- Email: swwakoli@gmail.com
+- LinkedIn: https://www.linkedin.com/in/samuelwakoli/
+
+Feel free to contact me if you have any questions or if you would like to collaborate on a project.
