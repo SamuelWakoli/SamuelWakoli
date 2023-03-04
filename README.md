@@ -4,10 +4,6 @@
 
 I'm a passionate Android and Flutter app developer with experience in building mobile apps using Kotlin and Dart. I enjoy learning new technologies and contributing to open-source projects. 
 
-## Education
-
-- Diploma in Information Technology, KCA University, 2021
-
 
 ## Skills
 
