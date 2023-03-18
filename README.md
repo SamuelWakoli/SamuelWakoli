@@ -2,7 +2,7 @@ Hi there! My name is Samuel Wakoli, and I am a passionate Android and Flutter ap
 
 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,dart,androidstudio,flutter,git,github,mysql,firebase,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,dart,androidstudio,flutter,git,github,firebase,linux)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelWakoli&theme=omni&layout=compact&langs_count=8)](https://github.com/SamuelWakoli/github-readme-stats)
 
