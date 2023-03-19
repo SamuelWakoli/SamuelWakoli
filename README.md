@@ -11,5 +11,3 @@ Skills:
 Contact:
 - Email: swwakoli@gmail.com
 - LinkedIn: https://www.linkedin.com/in/samuelwakoli/
-
-Feel free to contact me if you have any questions or if you would like me to collaborate on a project.
