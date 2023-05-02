@@ -11,3 +11,4 @@ Skills:
 Contact:
 - Email: swwakoli@gmail.com
 - LinkedIn: https://www.linkedin.com/in/samuelwakoli/
+- WhatsApp: https://wa.me/25497228948
