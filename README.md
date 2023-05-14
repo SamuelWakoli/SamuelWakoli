@@ -1,5 +1,3 @@
-Hi there! My name is Samuel Wakoli, and I am a passionate Android and Flutter app developer with experience in building mobile apps using Kotlin and Dart. I enjoy learning new technologies and contributing to open-source projects.
-
 Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,dart,androidstudio,flutter,git,github,firebase,linux)](https://skillicons.dev)
