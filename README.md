@@ -1,4 +1,6 @@
-**Skills**
+Self taught software developer. Passionate in Modern Android Development and Flutter.
+
+**Technologies I use:**
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,js,dart,flutter,mysql,firebase,git,github,linux,figma,idea,androidstudio,vscode,md,stackoverflow)](https://skillicons.dev)
 
