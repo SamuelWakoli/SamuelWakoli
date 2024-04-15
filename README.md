@@ -11,8 +11,8 @@ I'm a highly motivated and self-taught software developer specializing in buildi
     * Java (Intermediate) - Strong foundation in core Android development principles.
     * Flutter (Intermediate) - Building beautiful and performant cross-platform apps.
     
-* **Databases:** MySQL - Understanding data storage and retrieval for mobile apps.
-* **Cloud Platforms:** Firebase - Building scalable and secure mobile backends.
+* **Databases:** MySQL - Storage and retrieval of data for mobile apps.
+* **Cloud Platforms:** Firebase/GCP - Building scalable and secure mobile backends.
 * **Version Control & Collaboration:** Git, GitHub - Efficient workflow management and collaboration.
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,js,dart,flutter,mysql,firebase,gcp,git,github,linux,ubuntu,figma,idea,androidstudio,vscode,md,stackoverflow)](https://skillicons.dev)
