@@ -8,13 +8,12 @@ I'm a highly motivated and self-taught software developer specializing in buildi
 
 * **Mobile Development:**
     * Kotlin (Proficient) - Modern, concise, and type-safe language for Android development.
-    * Java (Intermediate) - Strong foundation in core Android development principles.
     * Flutter (Intermediate) - Building beautiful and performant cross-platform apps.
     
 * **Databases:** MySQL - Storage and retrieval of data for mobile apps.
 * **Cloud Platforms:** Firebase/GCP - Building scalable and secure mobile backends.
 * **Version Control & Collaboration:** Git, GitHub - Efficient workflow management and collaboration.
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,js,dart,flutter,mysql,firebase,gcp,git,github,linux,ubuntu,idea,androidstudio,vscode,md,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,kotlin,js,dart,flutter,mysql,firebase,git,github,linux,ubuntu,md)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelWakoli&theme=merko&layout=compact&langs_count=8&access_token=<PAT>)](https://github.com/SamuelWakoli/github-readme-stats)
