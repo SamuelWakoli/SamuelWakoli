@@ -33,6 +33,6 @@ Loves Firebase/Google Cloud for back-end, with a logical, persistent problem-sol
 
 ###
 
-<a href="https://samuelwakoli.github.io">samuelwakoli.github.io</a>
+<a href="https://samuelwakoli.github.io" target="_blank" rel="noopener noreferrer">samuelwakoli.github.io</a>
 
 ###
